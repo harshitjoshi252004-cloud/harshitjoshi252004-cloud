@@ -5,8 +5,8 @@
 I am an Electrical Engineering student passionate about **Grid Modernization**, **Renewable Energy Integration**, and **Smart Power Systems**. I bridge the gap between traditional engineering and modern technology by applying **Simulation & Automation** to solve core electrical problems.
 
 - 🔭 I’m currently working on **Utility-Scale Solar PV Simulations & High-Rise Electrical Design**.
-- 💼 Experience: **Intern at Centre for Power & Energy Systems (TATA Power-DDL)**.
-- 🎓 Education: **B.Tech in EEE** from **KIET Group of Institutions** (Affiliated to Dr. A.P.J. Abdul Kalam Technical University,Lucknow).
+- 💼 Experience: **Intern at Centre for Power & Energy Systems (established by TATA Power-DDL)**.
+- 🎓 Education: **B.Tech in EEE** from **KIET Group of Institutions** (Affiliated to Dr. A.P.J. Abdul Kalam Technical University).
 - 💡 Core Interest: **Optimizing Load Flow Analysis and Grid Operations through Advanced Simulation.**
 
 ---
@@ -33,7 +33,7 @@ Here is the technical stack I use to design, simulate, and analyze electrical sy
   <tr>
     <td width="33%">
       <h3 align="center">⚡ Smart Grid & FLISR Automation</h3>
-      <p align="center"><strong>(TATA Power-DDL Internship)</strong><br>Simulated Fault Location, Isolation & Restoration (FLISR) logic in Simulink and built a Power BI dashboard for real-time grid health monitoring.</p>
+      <p align="center"><strong>(Centre for Power & Energy Systems)</strong><br>Simulated Fault Location, Isolation & Restoration (FLISR) logic in Simulink and built a Power BI dashboard for real-time grid health monitoring.</p>
     </td>
     <td width="33%">
       <h3 align="center">🏢 G+10 Residential Electrical Design</h3>
