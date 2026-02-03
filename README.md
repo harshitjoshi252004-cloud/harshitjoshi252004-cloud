@@ -48,14 +48,6 @@ Here is the technical stack I use to design, simulate, and analyze electrical sy
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-joshi-eee&show_icons=true&theme=radical&hide_border=true" alt="Harshit's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
