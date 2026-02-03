@@ -2,12 +2,12 @@
 
 ### ⚡ Electrical & Electronics Engineer | Power Systems Enthusiast
 
-I am an Electrical Engineering student passionate about **Grid Modernization**, **Renewable Energy Integration**, and **Smart Power Systems**. I bridge the gap between traditional engineering and modern technology by applying **Data Analytics** to solve core electrical problems.
+I am an Electrical Engineering student passionate about **Grid Modernization**, **Renewable Energy Integration**, and **Smart Power Systems**. I bridge the gap between traditional engineering and modern technology by applying **Simulation & Automation** to solve core electrical problems.
 
 - 🔭 I’m currently working on **Utility-Scale Solar PV Simulations & High-Rise Electrical Design**.
 - 💼 Experience: **Intern at Centre for Power & Energy Systems (TATA Power-DDL)**.
-- 🎓 Education: **B.Tech in EEE** from Dr. A.P.J. Abdul Kalam Technical University (AKTU).
-- 💡 Core Interest: Using **SQL & Power BI** to optimize Load Flow Analysis and Grid Operations.
+- 🎓 Education: **B.Tech in EEE** from **KIET Group of Institutions** (Affiliated to Dr. A.P.J. Abdul Kalam Technical University,Lucknow).
+- 💡 Core Interest: **Optimizing Load Flow Analysis and Grid Operations through Advanced Simulation.**
 
 ---
 
@@ -21,9 +21,8 @@ Here is the technical stack I use to design, simulate, and analyze electrical sy
 ![AutoCAD Electrical](https://img.shields.io/badge/AutoCAD_Electrical-Design-red?style=for-the-badge&logo=autodesk)
 ![SAM](https://img.shields.io/badge/NREL_SAM-Renewables-green?style=for-the-badge)
 
-#### **📊 Data Analytics for Engineering**
-![Power BI](https://img.shields.io/badge/Power_BI-Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-Database-lightgrey?style=for-the-badge&logo=postgresql)
+#### **📊 Engineering Analytics**
+![Power BI](https://img.shields.io/badge/Power_BI-Grid_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel)
 
 ---
@@ -32,18 +31,20 @@ Here is the technical stack I use to design, simulate, and analyze electrical sy
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏢 G+10 Residential Electrical Design</h3>
-      <p align="center">End-to-end electrical design for a high-rise tower including Load Calculations, SLD, and Transformer sizing using AutoCAD & Excel.</p>
+    <td width="33%">
+      <h3 align="center">⚡ Smart Grid & FLISR Automation</h3>
+      <p align="center"><strong>(TATA Power-DDL Internship)</strong><br>Simulated Fault Location, Isolation & Restoration (FLISR) logic in Simulink and built a Power BI dashboard for real-time grid health monitoring.</p>
     </td>
-    <td width="50%">
+    <td width="33%">
+      <h3 align="center">🏢 G+10 Residential Electrical Design</h3>
+      <p align="center"><strong>(NBC 2016 Compliant)</strong><br>End-to-end electrical design for a high-rise tower including Load Calculations, SLD, and Transformer sizing using AutoCAD & Excel.</p>
+    </td>
+    <td width="33%">
       <h3 align="center">☀️ 6.5 MW Solar PV Analysis</h3>
-      <p align="center">Techno-economic feasibility study of a grid-connected solar plant using NREL SAM, including LCOE and Yield analysis.</p>
+      <p align="center"><strong>(Renewable Energy)</strong><br>Techno-economic feasibility study of a grid-connected solar plant using NREL SAM, including LCOE, NPV, and Yield analysis.</p>
     </td>
   </tr>
 </table>
-
----
 
 ---
 
