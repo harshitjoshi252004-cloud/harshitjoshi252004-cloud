@@ -5,7 +5,7 @@
 I am an Electrical Engineering student passionate about **Grid Modernization**, **Renewable Energy Integration**, and **Smart Power Systems**. I bridge the gap between traditional engineering and modern technology by applying **Simulation & Automation** to solve core electrical problems.
 
 - 🔭 I’m currently working on **Utility-Scale Solar PV Simulations & High-Rise Electrical Design**.
-- 💼 Experience: **Research Intern at Centre for Power & Energy Systems (TATA Power-DDL)**.
+- 💼 Experience: **Intern at Centre for Power & Energy Systems (TATA Power-DDL)**.
 - 🎓 Education: **B.Tech in EEE** from **KIET Group of Institutions** (Affiliated to Dr. A.P.J. Abdul Kalam Technical University).
 - 💡 Core Interest: **Optimizing Load Flow Analysis and Grid Operations through Advanced Simulation.**
 
