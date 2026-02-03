@@ -23,7 +23,7 @@ Here is the technical stack I use to design, simulate, and analyze electrical sy
 
 #### **📊 Engineering Analytics**
 ![Power BI](https://img.shields.io/badge/Power_BI-Grid_Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel)
+![Excel](https://img.shields.io/badge/Excel-WorkingKnowledge-217346?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
